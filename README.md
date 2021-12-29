@@ -1,5 +1,5 @@
 # Calculadora
 Projeto Calculadora em Python + Tkinter
 
-<p align="right">
+<p align="center">
 <img src="maia_calc.png">
